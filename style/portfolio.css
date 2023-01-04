@@ -77,6 +77,9 @@ nav ul li {
   line-height: 30px;
   margin-bottom: 30px;
 }
+.banner img{
+  margin-bottom: -5px;
+}
 /* section: */
 main {
   max-width: 1140px;
